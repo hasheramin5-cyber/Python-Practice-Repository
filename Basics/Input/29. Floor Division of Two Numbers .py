@@ -1,4 +1,4 @@
-# Taking Floor Division of Two numbers from user and print the results.
+# Taking Floor Division of Two Numbers from user and print the results.
 
 num1 = float(input("Enter first number: "))
 num2 = float(input("Enter second number: "))
