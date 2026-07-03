@@ -9,3 +9,5 @@ print("Second Number:", num2)
 sum = num1 + num2
 print("\nSum:")
 print(num1, "+", num2, "is:", sum)
+
+# Explaination: In this code, we are taking two numbers as input from the user and then performing addition operation on those two numbers. Finally, we are printing the result of the addition operation.
