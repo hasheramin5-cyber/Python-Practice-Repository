@@ -1,3 +1,5 @@
+# a program 
+
 weight = float(input("\nEnter your weight (kg): "))
 height = float(input("Enter your height (m): "))
 
