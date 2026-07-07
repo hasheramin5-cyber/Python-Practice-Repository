@@ -1,3 +1,5 @@
+# A Program to Print the Multiplication Table of the Number Given by the User.
+
 number = int(input("\nEnter a number: "))
 
 print(f"\nTable of {number}")
