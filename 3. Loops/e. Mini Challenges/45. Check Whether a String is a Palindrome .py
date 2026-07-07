@@ -4,7 +4,6 @@
 # A palindrome is a word, number, or sentence that reads the same forward and backward.
 
 # Example:
-
 # madam      → Palindrome
 # level      → Palindrome
 # hello      → Not a Palindrome
