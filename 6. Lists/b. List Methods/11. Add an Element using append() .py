@@ -2,11 +2,12 @@
 
 fruits = ["Apple", "Banana", "Mango"]
 
-fruit = input("\nEnter a fruit to add: ").title()
+print("\nBefore Updating List is:", fruits)
+fruit = input("Enter a fruit to add: ").title()
 
 fruits.append(fruit)
 
-print("Updated List =", fruits)
+print("\nAfter Updating List is:", fruits)
 
 # Explanation:
 # The program adds a new element to the end of the list using the append() method. This method inserts only one element at a time and modifies the original list.
