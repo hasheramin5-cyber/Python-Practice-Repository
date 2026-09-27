@@ -1,0 +1,44 @@
+Name: Hasher Amin
+Age: 20
+Location: Pakistan
+Education: Bachelor of Science in Information Technology
+Semester: 5th Semester
+Skills: Machine Learning, Deep Learning, Python, Assembly, Python Ecosystem, Web Development, App Development
+Interests: Software Development, Designer, Machine Learning, Deep Learning
+Tools: Git, GitHub, GitHub Actions, VS Code, Jupyter Notebook, Anaconda, Android Studio, Arduino
+Goal: I don't have one fixed destination. I like exploring new technologies, building random ideas, breaking things, fixing them, and discovering what I want to create next.
+
+About Me:
+One who enjoys learning programming and building practical projects.
+Currently, I am improving my Python programming skills and exploring concepts related to
+machine learning, deep learning, computer vision, and software development.
+
+I believe that programming is not only about writing code but also about solving problems,
+understanding systems, and creating useful solutions. I regularly practice programming
+through small projects and experiments.
+
+My current focus is on strengthening my programming fundamentals, learning advanced Python
+concepts, and understanding how modern software and artificial intelligence systems work.
+
+Future Goals:
+1. Build useful open-source software projects.
+2. Improve my Python and software development skills.
+3. Learn machine learning and deep learning in depth.
+4. Develop practical computer vision applications.
+5. Contribute to open-source projects.
+6. Build and publish projects on GitHub.
+
+Learning Philosophy:
+"Learn the concept, practice the code, understand the process, and build something useful."
+
+Projects:
+Python Practice Repository
+TermTint
+MNIST Neural Vision
+TinyMLP
+Deep Learning Lab
+CodeMorph
+
+Programming is a continuous learning process. Every project provides an opportunity to
+learn something new, improve existing skills, and understand how different technologies
+work together.
